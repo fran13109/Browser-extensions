@@ -161,6 +161,10 @@ Info popup positioning is absolute below the info button
 
 <img width="576" height="546" alt="Screenshot 2025-11-03 000602" src="https://github.com/user-attachments/assets/5c70182c-82d9-42ef-8b95-a35517641011" />
 
+<img width="576" height="546" alt="Screenshot 2025-11-03 000612" src="https://github.com/user-attachments/assets/132770a8-a4d0-4196-87b7-31e8a0ce6099" />
+
+<img width="576" height="606" alt="Screenshot 2025-11-03 000649" src="https://github.com/user-attachments/assets/09b768c0-3d92-4eac-aef7-bc0816b60efc" />
+
 
 
 

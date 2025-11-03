@@ -1,0 +1,24 @@
+{
+
+    "manifest_version": 3,
+    "name": "HistoryFinder",
+    "description": "Find and manage your browsing history easily.",
+    "version": "1.0.0",
+    "permissions": [
+        "history",
+        "storage"
+    ],
+
+    "action":{
+        "default_popup": "src/view/popup.html"
+        
+
+    },
+
+    "background": {
+        "service_worker": "background.js"
+    }
+
+
+
+}

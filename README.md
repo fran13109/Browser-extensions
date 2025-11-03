@@ -36,7 +36,7 @@ Info popup for user guidance.
 2. Open your browser and search for extensions
    \[mostly with a puzzle icon top-right]
 3. Enable Developer mode (top right)
-   <img width="960" height="1032" alt="image" src="https://github.com/user-attachments/assets/73dfe500-c34d-40c9-a368-ce3808dd0660" />
+   <img width="460" height="532" alt="image" src="https://github.com/user-attachments/assets/73dfe500-c34d-40c9-a368-ce3808dd0660" />
 
 5. Click Load unpacked → select the folder containing the extension files (manifest.json, popup.html, popup.js, popup.css, background.js)
 6. The extension icon will appear in the toolbar.

@@ -156,6 +156,10 @@ Info popup positioning is absolute below the info button
 * Dark/light theme toggle
 * Amplification of match precisions.
 
+  
+##### UI visualization
+
+<img width="576" height="546" alt="Screenshot 2025-11-03 000602" src="https://github.com/user-attachments/assets/5c70182c-82d9-42ef-8b95-a35517641011" />
 
 
 
